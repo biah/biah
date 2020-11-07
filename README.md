@@ -2,7 +2,7 @@
 
 Welcome to my profile
 ----------------------------
-![](https://komarev.com/ghpvc/?username=biah&color=green)
+![](https://komarev.com/ghpvc/?username=biah&color=green) [![GitHub followers](https://img.shields.io/github/followers/Naereen.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Naereen?tab=followers)
 --------------------------------
 __Stats__
 
