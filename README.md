@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there <img src="https://media.tenor.com/images/b617c36f9db276d3146e974b8ff64f4c/tenor.gif" height = 23>
 
 Welcome to my profile
 ----------------------------
