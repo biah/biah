@@ -6,6 +6,6 @@ Welcome to my profile
 --------------------------------
 __Stats__
 
-![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=biah&count_private=true)![1](https://github-readme-stats.vercel.app/api/top-langs/?username=Biah&theme=blue-green)
+![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=biah&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Biah&theme=blue-green)
 
 
