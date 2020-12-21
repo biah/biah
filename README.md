@@ -7,7 +7,9 @@ Welcome to my profile
 __Stats__
 
 ![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=biah&count_private=true) ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Biah&theme=blue-green)
-__Languages__
+## __Languages__
+
+<img src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" height="30">
 
 
 
