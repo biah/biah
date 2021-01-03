@@ -5,7 +5,9 @@ Welcome to my profile
 ![](https://komarev.com/ghpvc/?username=biah&color=green) [![GitHub followers](https://img.shields.io/github/followers/Biah.svg?style=social&label=Follow&maxAge=2592000)](https://github.com/Biah?tab=followers)
 --------------------------------
 
-Hello, am Lucretius and welcome to my page
+Hello, am Lucretius and welcome to my page.
+My primary languages are Python, JavaScript and C++ but I can code in other
+languages
 
 
 __Stats__
